@@ -1,2 +1,2 @@
-# Networking-
-Herein, The readers can explore the design of various communication systems like pcm,dpcm,dsbsc and many more.
+# Networking
+Here in, One can explore the Database management , Object oriented programming and also basic Python programming . You can also find the Socket programming questions about Computer networking in C / Python languages.

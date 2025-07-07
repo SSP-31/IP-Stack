@@ -15,7 +15,7 @@ print(fruits[1])  # Access second item
 coordinates = (10, 20)
 
 # Dictionaries
-student = {"name": "SSP", "age": 21, "grade": "A"}
+student = {"name": "Shivani", "age": 21}
 print(student["name"])
 
 # Conditional Statements

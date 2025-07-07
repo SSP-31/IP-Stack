@@ -8,7 +8,7 @@ height = 5.2
 is_student = True
 
 # Lists
-fruits = ["apple", "banana", "cherry"]
+fruits = ["Apple", "Banana", "Cherry","Mango"]
 print(fruits[1])  # Access second item
 
 # Tuples (Immutable)

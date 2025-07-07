@@ -20,7 +20,7 @@ print(student["name"])
 
 # Conditional Statements
 if age > 18:
-    print("Adult")
+    print("Major")
 else:
     print("Minor")
 
@@ -50,7 +50,7 @@ class Person:
     def introduce(self):
         print(f"I'm {self.name}, {self.age} years old.")
 
-p = Person("SSP", 21)
+p = Person("Shivani", 21)
 p.introduce()
 
 # List Comprehension

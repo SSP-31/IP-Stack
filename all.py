@@ -1,10 +1,10 @@
 # Hello World
-print("Hello, Python!")
+print("Hello,Welcome to Python World!")
 
 # Variables and Data Types
-name = "SSP"
+name = "Shivani"
 age = 21
-height = 5.9
+height = 5.2
 is_student = True
 
 # Lists
